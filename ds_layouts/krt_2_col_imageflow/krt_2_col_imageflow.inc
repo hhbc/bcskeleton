@@ -5,7 +5,7 @@
  * Display Suite layout configuration for KRT 2 col imageflow.
  */
 
-function ds_krt_2_col_imageflow_layout() {
+function ds_krt_2_col_imageflow() {
   return array(
     'label' => t('KRT 2 column imageflow'),
     'regions' => array(
