@@ -36,6 +36,8 @@
       <?php print $top; ?>
     </<?php print $top_wrapper; ?>>
 
+    <div class="floatleft">
+    
     <<?php print $left_image_wrapper; ?> class="ds-left-image<?php print $left_image_classes; ?>">
       <?php print $left_image; ?>
     </<?php print $left_image_wrapper; ?>>
@@ -44,6 +46,9 @@
       <?php print $right_content; ?>
     </<?php print $right_content_wrapper; ?>>
 
+    <div style="clear:both"></div>
+    </div>
+    
     <<?php print $bottom_wrapper; ?> class="ds-bottom<?php print $bottom_classes; ?>">
       <?php print $bottom; ?>
     </<?php print $bottom_wrapper; ?>>

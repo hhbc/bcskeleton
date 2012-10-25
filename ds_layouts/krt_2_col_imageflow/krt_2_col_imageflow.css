@@ -5,16 +5,27 @@
 
 .ds-top {
   /* Styles for the "top" region go here */
+  width: 100%;
 }
 
 .ds-left-image {
   /* Styles for the "left-image" region go here */
+  max-width: 50%;
 }
 
 .ds-right-content {
   /* Styles for the "right-content" region go here */
+  min-width: 50%;
+  clear: both;
 }
 
 .ds-bottom {
   /* Styles for the "bottom" region go here */
+  width: 100%;
+}
+
+.floatleft {
+  float:left;
+  margin-right: 10px;
+  margin-bottom: 10px;
 }
