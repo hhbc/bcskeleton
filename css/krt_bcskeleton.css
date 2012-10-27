@@ -1,3 +1,5 @@
+/* Region settings */
+
 #header #site-slogan {
   margin-top: 0.5em;
 }
@@ -5,3 +7,14 @@
 .resize {
   background: none;
 }
+
+/* End region settings */
+
+/* Field settings */
+
+.field-type-taxonomy-term-reference {
+  font-weight: bold;
+  font-variant: small-caps;
+}
+
+/* End field settings */
