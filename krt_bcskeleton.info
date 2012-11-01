@@ -1,7 +1,6 @@
-
 name = KRT Budo Club
 description = A Skeleton subtheme
-version = VERSION
+version = 7.x-1.0-beta2
 core = 7.x
 base theme = skeletontheme
 
