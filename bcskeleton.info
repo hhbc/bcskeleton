@@ -1,6 +1,6 @@
 name = KRT Budo Club
 description = A Skeleton subtheme for Hamburger Budo Club e.V.
-version = 7.x-1.0-beta2
+version = 7.x-1.0-beta3
 core = 7.x
 base theme = skeletontheme
 

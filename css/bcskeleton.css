@@ -1,4 +1,6 @@
-/* Webfonts settings */
+/* 
+ * Webfonts settings
+ */
 
 body {
   font-size: 1em;
@@ -22,7 +24,9 @@ html, body, h1, h2, h3, h4, h5, p, li, a {
 
 /* End webfonts settings */
 
-/* Region settings */
+/* 
+ * Region settings 
+ */
 
 #header #site-slogan {
   margin-top: 0.5em;
@@ -34,7 +38,19 @@ html, body, h1, h2, h3, h4, h5, p, li, a {
 
 /* End region settings */
 
-/* Field settings */
+/* 
+ * Typography settings
+ */
+h3 a:link,
+h3 a:visited {
+  text-decoration: none;
+}
+
+/* End typography settings */
+
+/* 
+ * Field settings 
+ */
 
 .field-type-taxonomy-term-reference {
   font-weight: bold;
