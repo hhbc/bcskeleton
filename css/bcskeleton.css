@@ -33,8 +33,15 @@ html, body, h1, h2, h3, h4, h5, p, li, a {
 }
 
 .resize {
-  background: none;
+  background: url(../images/bc_mitgliedwerden_120.png) repeat scroll 0 0 transparent; 
+  top: 0; 
+  height: 120px; 
+  position: fixed; 
+  right: 0;  
+  width: 120px; 
+  z-index:1;
 }
+
 
 /* End region settings */
 
