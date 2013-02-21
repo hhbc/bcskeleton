@@ -48,10 +48,6 @@ html, body, h1, h2, h3, h4, h5, p, li, a {
 /* 
  * Typography settings
  */
-h3 a:link,
-h3 a:visited {
-  text-decoration: none;
-}
 
 /* End typography settings */
 
@@ -62,6 +58,14 @@ h3 a:visited {
 .field-type-taxonomy-term-reference {
   font-weight: bold;
   font-variant: small-caps;
+}
+
+#main .undecorated a,
+#main .undecorated a:link,
+#main .undecorated a:hover,
+#main .undecorated a:active,
+#main .undecorated a:visited {
+  text-decoration: none;
 }
 
 /* End field settings */
