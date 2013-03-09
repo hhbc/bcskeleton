@@ -25,4 +25,9 @@ regions[help] = Help
 regions[page_top] = Page top
 regions[page_bottom] = Page bottom
 
-
+/* Breakpoints for Picture module */
+breakpoints[mobile] = (min-width: 0px)
+breakpoints[narrow] = (min-width: 560px)
+breakpoints[wide] = (min-width: 851px)
+breakpoints[tv] = only screen and (min-width: 3456px)
+/* End breakpoints */
