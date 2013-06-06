@@ -1,7 +1,7 @@
 <div id="wrap">
     <div class="container">
     
-      <a href="http://www.budoclub-hamburg.de/verein/mitgliedschaft"><span class="resize"></span></a>
+      <a href="http://www.budoclub-hamburg.de/verein/mitgliedschaft"><span class="badge"></span></a>
         
         <!-- #header -->
         <div id="header" class="sixteen columns clearfix">
