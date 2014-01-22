@@ -32,16 +32,6 @@ body {
   margin-top: 0.5em;
 }
 
-.badge {
-  background: url(../images/bc_mitgliedwerden_120.png) repeat scroll 0 0 transparent; 
-  top: 0; 
-  height: 120px; 
-  position: fixed; 
-  right: 0;  
-  width: 120px; 
-  z-index:1;
-}
-
 /* End region settings */
 
 
@@ -50,6 +40,12 @@ body {
 /* 
  * Typography settings
  */
+p {
+  -webkit-hyphens: auto;
+  -moz-hyphens: auto;
+  -ms-hyphens: auto;
+  hyphens: auto;
+}
 
 /* End typography settings */
 

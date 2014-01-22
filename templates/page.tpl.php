@@ -1,5 +1,5 @@
 <div id="wrap">
-    <div class="container">
+    <div class="container" lang="<?php print $language->language; ?>">
     
       <a href="http://www.budoclub-hamburg.de/verein/mitgliedschaft"><span class="badge"></span></a>
         
