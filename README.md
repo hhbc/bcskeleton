@@ -1,19 +1,18 @@
 ﻿Welcome to BCSkeleton Drupal theme
+==================================
 
 Description
 -----------
 BCSkeleton is a Drupal 7 subtheme of the Skeleton theme
-(http://drupal.org/project/skeletontheme) and depends for
-now on version 7.x-1.1 (as time of this writing version
-7.x-1.2 is out but untested as there are some new features
-in there).
+(http://drupal.org/project/skeletontheme) and is tested 
+with versions up to 7.x-1.3.
 
 INSTALLATION:
 -------------
 1. Place the entire bcskeleton directory into your Drupal 
-   
+  ```   
    sites/all/themes/ 
-   
+  ```   
    directory.
    (Because of being a subtheme take care that the skeletontheme
    is also inside this directory.) 
@@ -28,4 +27,4 @@ INSTALLATION:
 AUTHOR
 ------
 Christian "krueschi" Boettger
-krueschi@ht16.org
+krueschi@t-online.de
