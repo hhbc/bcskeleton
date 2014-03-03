@@ -1,7 +1,7 @@
 ﻿Welcome to BCSkeleton Drupal theme
 ==================================
 
-Description
+DESCRIPTION
 -----------
 BCSkeleton is a Drupal 7 subtheme of the Skeleton theme
 (http://drupal.org/project/skeletontheme) and is tested 
@@ -23,7 +23,14 @@ INSTALLATION:
    
    and set the theme to enabled / default theme. (Notice:
    the skeletontheme may or may not be enabled.)
-   
+
+FURTHER INFORMATION
+-------------------
+
+More Information will be published on the project website:
+
+> http://hhbc.github.io/bcskeleton
+
 AUTHOR
 ------
 Christian "krueschi" Boettger
