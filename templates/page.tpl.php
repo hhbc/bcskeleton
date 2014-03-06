@@ -76,7 +76,7 @@
             <div id="main">
             
                 <?php if ($page['highlighted']): ?><div id="highlighted"><?php print render($page['highlighted']); ?></div><?php endif; ?>
-                
+                <a id="main-content"></a>
                 <?php print render($title_prefix); ?>
                 
                 <?php if ($title): ?>
