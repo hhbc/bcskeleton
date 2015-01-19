@@ -28,8 +28,16 @@ body {
  * Region settings 
  */
 
+#header #site-name a {
+  color: #375199;
+}
+
 #header #site-slogan {
   margin-top: 0.5em;
+}
+
+h1#page-title {
+  color: #375199;
 }
 
 /* End region settings */
@@ -61,6 +69,12 @@ p {
 #main .undecorated a:active,
 #main .undecorated a:visited {
   text-decoration: none;
+}
+
+a:hover,
+a:active,
+a:focus {
+  color: #375199;
 }
 
 /* End field settings */
