@@ -64,3 +64,8 @@ p {
 }
 
 /* End field settings */
+
+.region-featured-left .block-block,
+.region-featured-right .block-block {
+  height: 12em;
+}
