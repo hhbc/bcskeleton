@@ -69,3 +69,8 @@ p {
 .region-featured-right .block-block {
   height: 12em;
 }
+
+#navigation ul, #navigation ul.sf-menu {
+  width: auto;
+  box-shadow: 0px 1px 0px rgba(0, 0, 0, 0.2);
+}
