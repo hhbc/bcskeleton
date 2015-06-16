@@ -28,8 +28,16 @@ body {
  * Region settings 
  */
 
+#header #site-name a {
+  color: #375199;
+}
+
 #header #site-slogan {
   margin-top: 0.5em;
+}
+
+h1#page-title {
+  color: #375199;
 }
 
 /* End region settings */
@@ -66,4 +74,25 @@ p {
   text-decoration: none;
 }
 
+a:hover,
+a:active,
+a:focus {
+  color: #375199;
+}
+
 /* End field settings */
+
+.region-featured-left .block-block,
+.region-featured-right .block-block {
+  height: 12em;
+}
+
+#navigation ul, #navigation ul.sf-menu {
+  width: auto;
+  box-shadow: 0px 1px 0px rgba(0, 0, 0, 0.2);
+}
+
+#breadcrumb {
+  background-color: #fff;
+  border: none;
+}
